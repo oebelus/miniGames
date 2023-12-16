@@ -1,7 +1,7 @@
 # Snake Game in C
 
-This is a simple implementation of the classic Snake game in C using the ncurses library for terminal-based graphics. The game provides a rectangular play area where the player controls a snake that moves around to eat fruits and grow longer. The objective is to eat as many fruits as possible without colliding with the boundaries or the snake's own body.
-How to Compile and Run
+This is a simple implementation of the Snake game in C using the ncurses library. It provides a rectangular play area where you can control a snake that... / bla bla bla / we all know the famous Snake Game 😉 <br>
+- So here is how to Compile and Run (pretend you don't and follow instructions):
 
 To compile the game, make sure you have the gcc compiler and the ncurses library installed. You can compile the game using the following command:
 
